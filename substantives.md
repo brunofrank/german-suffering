@@ -1,7 +1,9 @@
 Subst. | Pl. Mod. | Gend. | Transl. (temp col) | Extra |
 ----- | ----- | ----- | ------------------ | ------- |
 Frau | en | die | :: | |
+Mädchen | - | das (wtf?!) | :: | |
 Kind | er | die | :: | |
+Mann | Männer | der | :: | |
 Erdbeer | en | die | :: | |
 Kuh | e | die | :: | |
 Katze | en | die | :: | |
@@ -35,4 +37,7 @@ Tier | en | die | :: | |
 Baum | Bäume | der | :: | |
 Wolle | n | die | wool | |
 Baumwolle | - | die | cotton | "wool three" :laughing: |
-
+Kaffee | | die | :: | |
+Tee | | | :: | |
+Nudeln | | die | :: | |
+Insekt | | das | :: | |

@@ -1,6 +1,8 @@
 Verb  | Stuff | Transl. (temp col) |
 ----- | ----- | ------------------ |
+sein | irh seid | :: |
 essen | | :: |
+fressen | | :: |
 trinken | | :: |
 schreiben | | :: |
 machen | | :: |
@@ -14,9 +16,14 @@ hören | | :: |
 tragen | | wear |
 passen | | fit |
 schwimmen | | :: |
-gehen | | go |
-schlafen | | sleep |
+gehen | | :: |
+schlafen | | :: |
 fahen | **2 -** 3rd - fährt | drive |
 heißen | | :: |
 denken | | think |
 kannen | | can |
+sprechen | 3rd spricht | :: |
+kommen | | :: |
+trinken | | :: |
+vertehe | | :: |
+heißen | | :: |
