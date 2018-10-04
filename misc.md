@@ -2,12 +2,14 @@ Word/Expr. | Transl (temp) |
 ----- | ----- |
 Es reicht | It is enough |
 Danke | :: |
-Bis morgen | See you tomorrow |
+Bis morgen | :: |
 Bis bald | See you soon |
+Bis später | See you later |
 Wie geht's? | :: |
 Mir geht's gut | :: |
+Alles klar | :: |
 Hallo | :: |
-Es tut mir leid | I am sorry |
+Es tut mir leid | :: |
 Guten tag | :: |
 Guten abend | :: |
 Gute nacht | :: |
