@@ -25,3 +25,6 @@ See | - | die | :: |
 Wind | - | der | :: |
 Brot | |  | :: |
 Wasser | - |  | :: |
+Person | en | die | :: |
+Leben | | die | life |
+Kartoffel | n | | :: |

@@ -7,3 +7,4 @@ schnell | :: |
 lang | :: |
 kalt | :: |
 langsam | :: |
+klar | :: |

@@ -17,3 +17,6 @@ schwimmen | | :: |
 gehen | | go |
 schlafen | | sleep |
 fahen | **2 -** 3rd - fährt | drive |
+heißen | | :: |
+denken | | think |
+kannen | | can |

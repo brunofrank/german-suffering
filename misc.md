@@ -21,4 +21,11 @@ Auf Wiedersehen | :: |
 Leider | :: |
 Gern geschehen | You are welcome |
 Tschüss | :: |
-
+Hier | :: |
+Auf | at/in/on (dunno actually =( ) |
+Fast | almost |
+Kein | :: |
+Aber | but |
+Oder | :: |
+Manchmal | sometimes |
+Unmöglich | impossible |
